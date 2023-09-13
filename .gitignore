@@ -1,0 +1,13 @@
+/lib64
+/pyvenv.cfg
+/share/
+/lib/
+/include/
+/images/
+/bin/
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/.gitignore
+/.idea/bg_remover.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
